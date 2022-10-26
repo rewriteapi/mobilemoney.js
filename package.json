@@ -1,6 +1,6 @@
 {
   "name": "mobilemoney.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "About An API wrapper for MTN MobileMoney written in JavaScript & TypeScript.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
