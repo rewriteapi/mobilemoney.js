@@ -29,7 +29,7 @@ const { Client } = require('mobilemoney.js');
 (async()=>{
     let user = new Client();
     user.isSandbox();
-    let subscriptionKey = "91e89ecba24b469ba571750eade6c3fe";
+    let subscriptionKey = "COLLECTION_OR_DISBURSEMENT_CREDENTIAL_MAKE_SURE_TO_REPLACE_IT_CORRECTLY";
     // creating uuid version 4 from the library
     let uuid = user.getReferenceId();
     console.log(`UUID : ${uuid}`)
