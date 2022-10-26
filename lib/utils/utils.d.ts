@@ -1,0 +1,10 @@
+export declare function getReferenceId(): string;
+export declare function isValideId4(uuid: string): boolean;
+export declare function errors_manager(response: any, data: any): void;
+export declare function dataManager(response: any): Promise<string | any>;
+export declare function isValidBasicToken(token: string): boolean;
+export declare function isValidBearerToken(token: string): boolean;
+export declare function replace(format: string, object: Object): string;
+export declare let PATH: Map<string, Map<string, string>>;
+export declare let COLLECTION_PATH: Map<string, Map<string, string>>;
+export declare let DISBURSEMENT_PATH: Map<string, Map<string, string>>;

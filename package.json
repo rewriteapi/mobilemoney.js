@@ -1,0 +1,40 @@
+{
+  "name": "mobilemoney.js",
+  "version": "0.0.2",
+  "description": "About An API wrapper for MTN MobileMoney written in JavaScript & TypeScript.",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "keywords": [
+    "mobilemoney",
+    "mtnopenapi",
+    "momoapi",
+    "mtnmomo",
+    "nodejs",
+    "javascript",
+    "typescript"
+  ],
+  "author": "rewriteapi",
+  "license": "MIT",
+  "private": false,
+  "files": [
+    "lib/**/*"
+  ],
+  "contributors": [
+    "Daniel TCHAKOUNTE <daniel@rewriteapi.cm>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rewriteapi/mobilemoney.js.git"
+  },
+  "homepage": "https://rewriteapi.cm/momo",
+  "devDependencies": {
+    "@types/node": "^18.8.3",
+    "@types/node-fetch": "^2.6.2",
+    "@types/uuid": "^8.3.4",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "uuid": "^9.0.0"
+  }
+}
