@@ -3,7 +3,7 @@
 ## About
 
 mobilemoney.js is a powerful [Node.js](https://nodejs.org) module that allows you to easily interact with the
-[MTN MOMO OPEN API](https://momodeveloper.mtn.com/).
+[MTN MOMO API](https://momodeveloper.mtn.com/).
 
 - Object-oriented
 - Predictable abstractions
@@ -100,7 +100,7 @@ If you don't understand something in the documentation, you are experiencing pro
 nudge in the right direction, please don't hesitate to join our official [rewriteapi Server][discord].
 
 [website]: https://rewriteapi.cm/momo
-[documentation]: https://mobilemoneyjs.rewriteapi.cm
+[documentation]: https://momojs.rewriteapi.cm
 [discord]: https://discord.gg/8hS3tvkfrF
 [source]: https://github.com/rewriteapi/mobilemoney.js/
 [npm]: https://www.npmjs.com/package/mobilemoney.js
