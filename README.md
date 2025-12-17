@@ -90,7 +90,7 @@ const { Client } = require('mobilemoney.js');
 
 - [Website][website]
 - [Documentation][documentation]
-- [rewriteapi Discord server][discord]
+<!--- [rewriteapi Discord server][discord]-->
 - [GitHub][source]
 - [npm][npm]
 
@@ -101,6 +101,6 @@ nudge in the right direction, please don't hesitate to join our official [rewrit
 
 [website]: https://rewriteapi.cm/momo
 [documentation]: https://momojs.rewriteapi.cm
-[discord]: https://discord.gg/8hS3tvkfrF
+<!--[discord]: https://discord.gg/8hS3tvkfrF -->
 [source]: https://github.com/rewriteapi/mobilemoney.js/
 [npm]: https://www.npmjs.com/package/mobilemoney.js
